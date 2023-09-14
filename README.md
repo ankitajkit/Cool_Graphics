@@ -1,1 +1,1 @@
-s# Cool_Graphics
+Cool_Graphics
